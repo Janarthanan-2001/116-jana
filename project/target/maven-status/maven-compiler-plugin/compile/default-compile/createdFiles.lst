@@ -1,0 +1,5 @@
+com\maricus\project\controller\ProjectController.class
+com\maricus\project\entity\ProjectEntity.class
+com\maricus\project\ProjectApplication.class
+com\maricus\project\repo\ProjectRepository.class
+com\maricus\project\service\ProjectService.class
