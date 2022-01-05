@@ -1,0 +1,5 @@
+com\maricus\technology\TechnologyApplication.class
+com\maricus\technology\controller\TechnologyController.class
+com\maricus\technology\repo\TechnologyRepository.class
+com\maricus\technology\service\TechnologyService.class
+com\maricus\technology\entity\TechnologyEntity.class
